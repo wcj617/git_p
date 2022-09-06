@@ -1,8 +1,5 @@
 add
 Remote
 LOCAL
-<<<<<<< HEAD
-LOCAL@
-=======
 add2
 >>>>>>> ae0ea96 (local changes2)
